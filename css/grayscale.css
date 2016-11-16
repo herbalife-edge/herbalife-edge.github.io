@@ -362,6 +362,11 @@ section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
 
+.herbalife-logo-black {
+  width: 300px !important;
+  height: auto !important;
+}
+
 footer {
   padding: 50px 0;
 }
